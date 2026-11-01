@@ -26,5 +26,8 @@
     <ClInclude Include="0001_66_PlusOne.h">
       <Filter>Easy</Filter>
     </ClInclude>
+    <ClInclude Include="0002_67_AddBinary.h">
+      <Filter>Easy</Filter>
+    </ClInclude>
   </ItemGroup>
 </Project>

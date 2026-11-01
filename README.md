@@ -1,54 +1,46 @@
-# \# LeetCode Practice
+# LeetCode Practice
 
-# 
+My daily journey of solving LeetCode problems using C++.
 
-# My daily journey of solving LeetCode problems using C++.
 
-# 
+# Goals
 
-# \## Goals
+- Solve at least 1 problem every day.
 
-# \- Solve at least 1 problem every day.
+- Improve problem-solving skills.
 
-# \- Improve problem-solving skills.
+- Strengthen Data Structures \& Algorithms knowledge.
 
-# \- Strengthen Data Structures \& Algorithms knowledge.
+- Maintain consistency through daily Git commits.
 
-# \- Maintain consistency through daily Git commits.
 
-# 
+# Progress
 
-# \## Progress
+| No | LeetCodeId | Problem | Difficulty | Topics | Date |
+|---------| --------- |---------|---------|---------|---------|
+| 1 | 66 | Plus One | Easy | Array, Math | 31/10/2026 |
+| 2 | 67 | Add Binary | Easy | String, Math, Bit Manipulation | 01/11/2026 |
 
-# 
 
-# | # | Problem | Difficulty | Topics | Solution |
 
-# |---|---|---|---|---|
 
-# | 1 | Plus One | Easy | Array, Math | \[Solution](Easy/0001\_66\_PlusOne.cpp) |
+# Statistics
 
-# 
 
-# \## Statistics
+- Total solved: 2
 
-# 
+- Easy: 2
 
-# \- Total solved: 1
+- Medium: 0
 
-# \- Easy: 1
+- Hard: 0
 
-# \- Medium: 0
 
-# \- Hard: 0
+#  Tech Stack
 
-# 
+- C++
 
-# \## Tech Stack
+- Visual Studio 2022
 
-# \- C++
-
-# \- Visual Studio 2022
-
-# \- Git \& GitHub
+- Git \& GitHub
 
