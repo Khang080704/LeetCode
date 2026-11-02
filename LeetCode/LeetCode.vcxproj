@@ -132,6 +132,7 @@
   <ItemGroup>
     <ClInclude Include="0001_66_PlusOne.h" />
     <ClInclude Include="0002_67_AddBinary.h" />
+    <ClInclude Include="0003_69_Sqrt_x.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
