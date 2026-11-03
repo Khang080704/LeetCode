@@ -21,6 +21,7 @@ My daily journey of solving LeetCode problems using C++.
 | 1 | 66 | Plus One | Easy | Array, Math | 31/10/2026 |
 | 2 | 67 | Add Binary | Easy | String, Math, Bit Manipulation | 01/11/2026 |
 | 3 | 69 | Sqrt(x) | Easy | String, Binary Search| 02/11/2026 |
+| 3 | 70 | Climbing Stairs | Easy | Dynamic Programming| 03/11/2026 |
 
 
 
@@ -28,9 +29,9 @@ My daily journey of solving LeetCode problems using C++.
 # Statistics
 
 
-- Total solved: 3
+- Total solved: 4
 
-- Easy: 3
+- Easy: 4
 
 - Medium: 0
 

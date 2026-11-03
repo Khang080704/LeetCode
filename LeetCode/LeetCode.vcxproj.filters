@@ -32,5 +32,8 @@
     <ClInclude Include="0003_69_Sqrt_x.h">
       <Filter>Easy</Filter>
     </ClInclude>
+    <ClInclude Include="0004_70_ClimbingStairs.h">
+      <Filter>Easy</Filter>
+    </ClInclude>
   </ItemGroup>
 </Project>
