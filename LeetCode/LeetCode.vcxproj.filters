@@ -35,7 +35,10 @@
     <ClInclude Include="0004_70_ClimbingStairs.h">
       <Filter>Easy</Filter>
     </ClInclude>
-    <ClInclude Include="0005_RemoveDuplicateSortedList.h">
+    <ClInclude Include="0005_83_RemoveDuplicatesSortedList.h">
+      <Filter>Easy</Filter>
+    </ClInclude>
+    <ClInclude Include="0006_82_RemoveDuplicatesSortedListII.h">
       <Filter>Easy</Filter>
     </ClInclude>
   </ItemGroup>

@@ -23,6 +23,7 @@ My daily journey of solving LeetCode problems using C++.
 | 3 | 69 | Sqrt(x) | Easy | String, Binary Search| 02/11/2026 |
 | 4 | 70 | Climbing Stairs | Easy | Dynamic Programming| 03/11/2026 |
 | 5 | 83 | Remove Duplicates from Sorted List | Easy | Linked List | 04/11/2026 |
+| 6 | 82 | Remove Duplicates from Sorted List II | Easy | Linked List, Two Pointers | 04/11/2026 |
 
 
 
@@ -30,11 +31,11 @@ My daily journey of solving LeetCode problems using C++.
 # Statistics
 
 
-- Total solved: 5
+- Total solved: 6
 
 - Easy: 5
 
-- Medium: 0
+- Medium: 1
 
 - Hard: 0
 

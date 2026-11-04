@@ -4,7 +4,8 @@
 #include "0002_67_AddBinary.h"
 #include "0003_69_Sqrt_x.h"
 #include "0004_70_ClimbingStairs.h"
-#include "0005_RemoveDuplicateSortedList.h"
+#include "0005_83_RemoveDuplicatesSortedList.h"
+#include "0006_82_RemoveDuplicatesSortedListII.h"
 
 int main() {
 	std::cout << "Hello, World!" << std::endl;

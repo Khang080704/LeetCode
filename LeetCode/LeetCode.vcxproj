@@ -130,11 +130,12 @@
     <ClCompile Include="main.cpp" />
   </ItemGroup>
   <ItemGroup>
+    <ClInclude Include="0006_82_RemoveDuplicatesSortedListII.h" />
     <ClInclude Include="0001_66_PlusOne.h" />
     <ClInclude Include="0002_67_AddBinary.h" />
     <ClInclude Include="0003_69_Sqrt_x.h" />
     <ClInclude Include="0004_70_ClimbingStairs.h" />
-    <ClInclude Include="0005_RemoveDuplicateSortedList.h" />
+    <ClInclude Include="0005_83_RemoveDuplicatesSortedList.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
