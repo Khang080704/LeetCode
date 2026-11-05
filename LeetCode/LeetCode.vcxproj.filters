@@ -16,6 +16,9 @@
     <Filter Include="Easy">
       <UniqueIdentifier>{cb388f6f-0938-490a-a92e-e6031c4d2344}</UniqueIdentifier>
     </Filter>
+    <Filter Include="Medium">
+      <UniqueIdentifier>{acfb1528-d05b-4ff6-b12a-422f6b9206aa}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="main.cpp">
@@ -39,6 +42,9 @@
       <Filter>Easy</Filter>
     </ClInclude>
     <ClInclude Include="0006_82_RemoveDuplicatesSortedListII.h">
+      <Filter>Medium</Filter>
+    </ClInclude>
+    <ClInclude Include="0007_94_BinaryTreeInorderTraversal.h">
       <Filter>Easy</Filter>
     </ClInclude>
   </ItemGroup>

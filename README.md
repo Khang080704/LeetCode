@@ -24,6 +24,7 @@ My daily journey of solving LeetCode problems using C++.
 | 4 | 70 | Climbing Stairs | Easy | Dynamic Programming| 03/11/2026 |
 | 5 | 83 | Remove Duplicates from Sorted List | Easy | Linked List | 04/11/2026 |
 | 6 | 82 | Remove Duplicates from Sorted List II | Medium | Linked List, Two Pointers | 04/11/2026 |
+| 7 | 94 | Remove Duplicates from Sorted List II | Easy | Tree, Depth-First Search | 05/11/2026 |
 
 
 
@@ -31,9 +32,9 @@ My daily journey of solving LeetCode problems using C++.
 # Statistics
 
 
-- Total solved: 6
+- Total solved: 7
 
-- Easy: 5
+- Easy: 6
 
 - Medium: 1
 
