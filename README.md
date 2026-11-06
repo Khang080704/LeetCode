@@ -1,6 +1,7 @@
 # LeetCode Practice
 
-My daily journey of solving LeetCode problems using C++.
+My daily journey of solving LeetCode problems using C++. This project is a back to basic project. After a 4-years journey at the University of Science (HCMUS), having learned so many knowledge in Software Engineer, I feel that I have matured a great deal and have come a very long way on this path.. Therefore, this project reminds me the early days when I explored the foundation of Information Technology. Thank you so much to myself for not giving up.
+
 
 
 # Goals
@@ -25,20 +26,22 @@ My daily journey of solving LeetCode problems using C++.
 | 5 | 83 | Remove Duplicates from Sorted List | Easy | Linked List | 04/11/2026 |
 | 6 | 82 | Remove Duplicates from Sorted List II | Medium | Linked List, Two Pointers | 04/11/2026 |
 | 7 | 94 | Binary Tree Inorder Traversal | Easy | Tree, Depth-First Search | 05/11/2026 |
+| 8 | 35 | Search Insert Position | Easy | Array, Binary Search | 06/11/2026 |
 
 
 
 
 # Statistics
 
+- Day: 7
 
-- Total solved: 7
+- Total solved: 8
 
-- Easy: 6
+    - Easy: 7
 
-- Medium: 1
+    - Medium: 1
 
-- Hard: 0
+    - Hard: 0
 
 
 #  Tech Stack

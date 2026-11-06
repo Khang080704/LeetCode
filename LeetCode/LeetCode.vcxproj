@@ -137,6 +137,7 @@
     <ClInclude Include="0004_70_ClimbingStairs.h" />
     <ClInclude Include="0005_83_RemoveDuplicatesSortedList.h" />
     <ClInclude Include="0007_94_BinaryTreeInorderTraversal.h" />
+    <ClInclude Include="0008_35_SearchInsertPosition.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

@@ -47,5 +47,8 @@
     <ClInclude Include="0007_94_BinaryTreeInorderTraversal.h">
       <Filter>Easy</Filter>
     </ClInclude>
+    <ClInclude Include="0008_35_SearchInsertPosition.h">
+      <Filter>Easy</Filter>
+    </ClInclude>
   </ItemGroup>
 </Project>
