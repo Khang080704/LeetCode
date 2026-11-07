@@ -8,10 +8,11 @@
 #include "0006_82_RemoveDuplicatesSortedListII.h"
 #include "0007_94_BinaryTreeInorderTraversal.h"
 #include "0008_35_SearchInsertPosition.h"
+#include "0009_08_StringToInteger.h"
 
 int main() {
 	std::cout << "Hello, World!" << std::endl;
-	SearchInsertPosition::testInsertPostion();
+	StringToInteger::testStringToInteger();
 
 	return 0;
 }

@@ -27,19 +27,20 @@ My daily journey of solving LeetCode problems using C++. This project is a back 
 | 6 | 82 | Remove Duplicates from Sorted List II | Medium | Linked List, Two Pointers | 04/11/2026 |
 | 7 | 94 | Binary Tree Inorder Traversal | Easy | Tree, Depth-First Search | 05/11/2026 |
 | 8 | 35 | Search Insert Position | Easy | Array, Binary Search | 06/11/2026 |
+| 9 | 08 | String to Integer (atoi) | Medium | String | 07/11/2026 |
 
 
 
 
 # Statistics
 
-- Day: 7
+- Day: 8
 
-- Total solved: 8
+- Total solved: 9
 
     - Easy: 7
 
-    - Medium: 1
+    - Medium: 2
 
     - Hard: 0
 

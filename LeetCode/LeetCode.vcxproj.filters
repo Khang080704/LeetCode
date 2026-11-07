@@ -50,5 +50,8 @@
     <ClInclude Include="0008_35_SearchInsertPosition.h">
       <Filter>Easy</Filter>
     </ClInclude>
+    <ClInclude Include="0009_08_StringToInteger.h">
+      <Filter>Medium</Filter>
+    </ClInclude>
   </ItemGroup>
 </Project>
