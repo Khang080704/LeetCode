@@ -28,19 +28,20 @@ My daily journey of solving LeetCode problems using C++. This project is a back 
 | 7 | 94 | Binary Tree Inorder Traversal | Easy | Tree, Depth-First Search | 05/11/2026 |
 | 8 | 35 | Search Insert Position | Easy | Array, Binary Search | 06/11/2026 |
 | 9 | 08 | String to Integer (atoi) | Medium | String | 07/11/2026 |
+| 10 | 17 | Letter Combinations of a Phone Number | Medium | Hash Table, String, Backtracking | 08/11/2026 |
 
 
 
 
 # Statistics
 
-- Day: 8
+- Day: 9
 
-- Total solved: 9
+- Total solved: 10
 
     - Easy: 7
 
-    - Medium: 2
+    - Medium: 3
 
     - Hard: 0
 

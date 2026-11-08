@@ -9,10 +9,12 @@
 #include "0007_94_BinaryTreeInorderTraversal.h"
 #include "0008_35_SearchInsertPosition.h"
 #include "0009_08_StringToInteger.h"
+#include "0010_17_LetterCombinationsOfAPhoneNumber.h"
 
 int main() {
 	std::cout << "Hello, World!" << std::endl;
 	StringToInteger::testStringToInteger();
+	LetterCombinationsOfAPhoneNumber::testLetterCombinationsOfAPhoneNumber();
 
 	return 0;
 }

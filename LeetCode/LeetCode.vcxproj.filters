@@ -53,5 +53,8 @@
     <ClInclude Include="0009_08_StringToInteger.h">
       <Filter>Medium</Filter>
     </ClInclude>
+    <ClInclude Include="0010_17_LetterCombinationsOfAPhoneNumber.h">
+      <Filter>Medium</Filter>
+    </ClInclude>
   </ItemGroup>
 </Project>

@@ -123,6 +123,6 @@ namespace StringToInteger {
     void testStringToInteger() {
         std::string temp = "20000000000000000000";
         Solution s;
-        std::cout << s.myAtoi(temp);
+        std::cout << s.myAtoi(temp) << std::endl;
     }
 }
