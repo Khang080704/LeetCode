@@ -29,17 +29,18 @@ My daily journey of solving LeetCode problems using C++. This project is a back 
 | 8 | 35 | Search Insert Position | Easy | Array, Binary Search | 06/11/2026 |
 | 9 | 08 | String to Integer (atoi) | Medium | String | 07/11/2026 |
 | 10 | 17 | Letter Combinations of a Phone Number | Medium | Hash Table, String, Backtracking | 08/11/2026 |
+| 11 | 100 | Same Tree | Easy | Binary Tree, Depth-First Search, Breadth-First Search | 09/11/2026 |
 
 
 
 
 # Statistics
 
-- Day: 9
+- Day: 10
 
-- Total solved: 10
+- Total solved: 11
 
-    - Easy: 7
+    - Easy: 8
 
     - Medium: 3
 

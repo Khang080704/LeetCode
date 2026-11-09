@@ -106,5 +106,6 @@ namespace LetterCombinationsOfAPhoneNumber {
         for (auto x : result) {
             std::cout << x << " ";
         }
+        std::cout << std::endl;
     }
 }

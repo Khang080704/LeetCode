@@ -56,5 +56,8 @@
     <ClInclude Include="0010_17_LetterCombinationsOfAPhoneNumber.h">
       <Filter>Medium</Filter>
     </ClInclude>
+    <ClInclude Include="0011_100_SameTree.h">
+      <Filter>Easy</Filter>
+    </ClInclude>
   </ItemGroup>
 </Project>

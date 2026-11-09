@@ -10,11 +10,14 @@
 #include "0008_35_SearchInsertPosition.h"
 #include "0009_08_StringToInteger.h"
 #include "0010_17_LetterCombinationsOfAPhoneNumber.h"
+#include "0011_100_SameTree.h"
 
 int main() {
 	std::cout << "Hello, World!" << std::endl;
 	StringToInteger::testStringToInteger();
 	LetterCombinationsOfAPhoneNumber::testLetterCombinationsOfAPhoneNumber();
+	SameTree::testSameTree();
+
 
 	return 0;
 }
