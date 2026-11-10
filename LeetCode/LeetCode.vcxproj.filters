@@ -62,5 +62,8 @@
     <ClInclude Include="0012_20_ValidParentheses.h">
       <Filter>Easy</Filter>
     </ClInclude>
+    <ClInclude Include="0013_101_SymmetricTree.h">
+      <Filter>Easy</Filter>
+    </ClInclude>
   </ItemGroup>
 </Project>

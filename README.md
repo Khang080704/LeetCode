@@ -30,17 +30,18 @@ My daily journey of solving LeetCode problems using C++. This project is a back 
 | 9 | 08 | String to Integer (atoi) | Medium | String | 07/11/2026 |
 | 10 | 17 | Letter Combinations of a Phone Number | Medium | Hash Table, String, Backtracking | 08/11/2026 |
 | 11 | 100 | Same Tree | Easy | Binary Tree, Depth-First Search, Breadth-First Search | 09/11/2026 |
-| 12 | 20| Valid Parentheses | Easy | String, Stack, Bracket Sequences | 09/11/2026 |
+| 12 | 20 | Valid Parentheses | Easy | String, Stack, Bracket Sequences | 09/11/2026 |
+| 13 | 101 | Symmetric Tree | Easy | Binary Tree, Depth-First Search, Breadth-First Search | 10/11/2026 |
 
 
 
 # Statistics
 
-- Day: 10
+- Day: 11
 
-- Total solved: 12
+- Total solved: 13
 
-    - Easy: 9
+    - Easy: 10
 
     - Medium: 3
 
