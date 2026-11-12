@@ -32,16 +32,16 @@ My daily journey of solving LeetCode problems using C++. This project is a back 
 | 11 | 100 | Same Tree | Easy | Binary Tree, Depth-First Search, Breadth-First Search | 09/11/2026 |
 | 12 | 20 | Valid Parentheses | Easy | String, Stack, Bracket Sequences | 09/11/2026 |
 | 13 | 101 | Symmetric Tree | Easy | Binary Tree, Depth-First Search, Breadth-First Search | 10/11/2026 |
-
+| 14 | 104 | Maximum Depth of Binary Tree | Easy | Binary Tree, Depth-First Search, Breadth-First Search | 12/11/2026 |
 
 
 # Statistics
 
-- Day: 11
+- Day: 12
 
-- Total solved: 13
+- Total solved: 14
 
-    - Easy: 10
+    - Easy: 11
 
     - Medium: 3
 

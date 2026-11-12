@@ -143,6 +143,7 @@
     <ClInclude Include="0011_100_SameTree.h" />
     <ClInclude Include="0012_20_ValidParentheses.h" />
     <ClInclude Include="0013_101_SymmetricTree.h" />
+    <ClInclude Include="0014_104_MaxiumDepthOfBinaryTree.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
