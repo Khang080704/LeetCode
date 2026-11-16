@@ -68,5 +68,8 @@
     <ClInclude Include="0014_104_MaxiumDepthOfBinaryTree.h">
       <Filter>Easy</Filter>
     </ClInclude>
+    <ClInclude Include="0015_108_ConvertSortedArrayToBinarySearchTree.h">
+      <Filter>Easy</Filter>
+    </ClInclude>
   </ItemGroup>
 </Project>
