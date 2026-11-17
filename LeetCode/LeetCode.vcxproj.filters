@@ -71,5 +71,8 @@
     <ClInclude Include="0015_108_ConvertSortedArrayToBinarySearchTree.h">
       <Filter>Easy</Filter>
     </ClInclude>
+    <ClInclude Include="0016_110_BalancedBinaryTree.h">
+      <Filter>Easy</Filter>
+    </ClInclude>
   </ItemGroup>
 </Project>

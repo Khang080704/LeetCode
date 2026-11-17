@@ -34,15 +34,16 @@ My daily journey of solving LeetCode problems using C++. This project is a back 
 | 13 | 101 | Symmetric Tree | Easy | Binary Tree, Depth-First Search, Breadth-First Search | 10/11/2026 |
 | 14 | 104 | Maximum Depth of Binary Tree | Easy | Binary Tree, Depth-First Search, Breadth-First Search | 12/11/2026 |
 | 15 | 108 | Convert Sorted Array to Binary Search Tree | Easy | Binary Tree, Array, Divide and Conquer | 16/11/2026 |
+| 16 | 110 | Balanced Binary Tree | Easy | Binary Tree, Depth-First Search | 17/11/2026 |
 
 
 # Statistics
 
-- Day: 13
+- Day: 14
 
-- Total solved: 15
+- Total solved: 16
 
-    - Easy: 12
+    - Easy: 13
 
     - Medium: 3
 
