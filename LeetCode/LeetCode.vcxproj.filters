@@ -74,5 +74,8 @@
     <ClInclude Include="0016_110_BalancedBinaryTree.h">
       <Filter>Easy</Filter>
     </ClInclude>
+    <ClInclude Include="0017_111_MinimumDepthOfBinaryTree.h">
+      <Filter>Easy</Filter>
+    </ClInclude>
   </ItemGroup>
 </Project>
