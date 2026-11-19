@@ -77,5 +77,8 @@
     <ClInclude Include="0017_111_MinimumDepthOfBinaryTree.h">
       <Filter>Easy</Filter>
     </ClInclude>
+    <ClInclude Include="0018_112_PathSum.h">
+      <Filter>Easy</Filter>
+    </ClInclude>
   </ItemGroup>
 </Project>

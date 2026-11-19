@@ -147,6 +147,7 @@
     <ClInclude Include="0015_108_ConvertSortedArrayToBinarySearchTree.h" />
     <ClInclude Include="0016_110_BalancedBinaryTree.h" />
     <ClInclude Include="0017_111_MinimumDepthOfBinaryTree.h" />
+    <ClInclude Include="0018_112_PathSum.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
