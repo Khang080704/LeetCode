@@ -80,5 +80,8 @@
     <ClInclude Include="0018_112_PathSum.h">
       <Filter>Easy</Filter>
     </ClInclude>
+    <ClInclude Include="0019_118_PascalTriangle.h">
+      <Filter>Easy</Filter>
+    </ClInclude>
   </ItemGroup>
 </Project>

@@ -12,6 +12,7 @@
 #include "0010_17_LetterCombinationsOfAPhoneNumber.h"
 #include "0011_100_SameTree.h"
 #include "0013_101_SymmetricTree.h"
+#include "0019_118_PascalTriangle.h"
 
 int main() {
 	std::cout << "Hello, World!" << std::endl;
@@ -19,6 +20,7 @@ int main() {
 	LetterCombinationsOfAPhoneNumber::testLetterCombinationsOfAPhoneNumber();
 	SameTree::testSameTree();
 
+	PascalTriangle::testPascalTriangle();
 
 	return 0;
 }
