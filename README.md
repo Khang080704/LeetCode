@@ -38,17 +38,18 @@ My daily journey of solving LeetCode problems using C++. This project is a back 
 | 17 | 111 | Minimum Depth of Binary Tree | Easy | Binary Tree, Depth-First Search, Breadth-First Search | 18/11/2026 |
 | 18 | 112 | Path Sum | Easy | Binary Tree, Depth-First Search, Breadth-First Search | 19/11/2026 |
 | 19 | 118 | Pascal's Triangle | Easy | Array, Dynamic Programming | 21/11/2026 |
+| 20 | 02 | Add Two Numbers | Medium | Principal, Linked List, Math, Recursion | 22/11/2026 |
 
 
 # Statistics
 
-- Day: 17
+- Day: 18
 
-- Total solved: 19
+- Total solved: 20
 
     - Easy: 16
 
-    - Medium: 3
+    - Medium: 4
 
     - Hard: 0
 

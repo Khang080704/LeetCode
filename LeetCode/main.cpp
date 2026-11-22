@@ -13,6 +13,7 @@
 #include "0011_100_SameTree.h"
 #include "0013_101_SymmetricTree.h"
 #include "0019_118_PascalTriangle.h"
+#include "0020_02_AddTwoNumbers.h"
 
 int main() {
 	std::cout << "Hello, World!" << std::endl;
@@ -21,6 +22,7 @@ int main() {
 	SameTree::testSameTree();
 
 	PascalTriangle::testPascalTriangle();
+	AddTwoNumbers::testAddTwoNumbers();
 
 	return 0;
 }
