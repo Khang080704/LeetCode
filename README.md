@@ -39,15 +39,16 @@ My daily journey of solving LeetCode problems using C++. This project is a back 
 | 18 | 112 | Path Sum | Easy | Binary Tree, Depth-First Search, Breadth-First Search | 19/11/2026 |
 | 19 | 118 | Pascal's Triangle | Easy | Array, Dynamic Programming | 21/11/2026 |
 | 20 | 02 | Add Two Numbers | Medium | Principal, Linked List, Math, Recursion | 22/11/2026 |
+| 21 | 119 | Pascal's Triangle II | Easy | Array, Dynamic Programming | 23/11/2026 |
 
 
 # Statistics
 
-- Day: 18
+- Day: 19
 
-- Total solved: 20
+- Total solved: 21
 
-    - Easy: 16
+    - Easy: 17
 
     - Medium: 4
 

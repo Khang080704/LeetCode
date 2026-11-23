@@ -86,5 +86,8 @@
     <ClInclude Include="0020_02_AddTwoNumbers.h">
       <Filter>Medium</Filter>
     </ClInclude>
+    <ClInclude Include="0021_119_PascalTriangleII.h">
+      <Filter>Easy</Filter>
+    </ClInclude>
   </ItemGroup>
 </Project>
