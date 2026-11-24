@@ -40,15 +40,16 @@ My daily journey of solving LeetCode problems using C++. This project is a back 
 | 19 | 118 | Pascal's Triangle | Easy | Array, Dynamic Programming | 21/11/2026 |
 | 20 | 02 | Add Two Numbers | Medium | Principal, Linked List, Math, Recursion | 22/11/2026 |
 | 21 | 119 | Pascal's Triangle II | Easy | Array, Dynamic Programming | 23/11/2026 |
+| 22 | 121 | Best Time to Buy and Sell Stock | Easy | Array, Dynamic Programming | 24/11/2026 |
 
 
 # Statistics
 
-- Day: 19
+- Day: 20
 
-- Total solved: 21
+- Total solved: 22
 
-    - Easy: 17
+    - Easy: 18
 
     - Medium: 4
 

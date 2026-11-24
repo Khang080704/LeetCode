@@ -151,6 +151,7 @@
     <ClInclude Include="0019_118_PascalTriangle.h" />
     <ClInclude Include="0020_02_AddTwoNumbers.h" />
     <ClInclude Include="0021_119_PascalTriangleII.h" />
+    <ClInclude Include="0022_121_BestTimeToBuyAndSellStock.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
