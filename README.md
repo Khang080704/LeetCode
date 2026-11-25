@@ -41,15 +41,16 @@ My daily journey of solving LeetCode problems using C++. This project is a back 
 | 20 | 02 | Add Two Numbers | Medium | Principal, Linked List, Math, Recursion | 22/11/2026 |
 | 21 | 119 | Pascal's Triangle II | Easy | Array, Dynamic Programming | 23/11/2026 |
 | 22 | 121 | Best Time to Buy and Sell Stock | Easy | Array, Dynamic Programming | 24/11/2026 |
+| 23 | 136 | Single Number | Easy | Array, Bit Manipulation | 25/11/2026 |
 
 
 # Statistics
 
-- Day: 20
+- Day: 21
 
-- Total solved: 22
+- Total solved: 23
 
-    - Easy: 18
+    - Easy: 19
 
     - Medium: 4
 

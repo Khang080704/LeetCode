@@ -92,5 +92,8 @@
     <ClInclude Include="0022_121_BestTimeToBuyAndSellStock.h">
       <Filter>Easy</Filter>
     </ClInclude>
+    <ClInclude Include="0023_136_SingleNumber.h">
+      <Filter>Easy</Filter>
+    </ClInclude>
   </ItemGroup>
 </Project>
