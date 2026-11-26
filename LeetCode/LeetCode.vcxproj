@@ -153,6 +153,7 @@
     <ClInclude Include="0021_119_PascalTriangleII.h" />
     <ClInclude Include="0022_121_BestTimeToBuyAndSellStock.h" />
     <ClInclude Include="0023_136_SingleNumber.h" />
+    <ClInclude Include="0024_141_LinkedListCycle.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

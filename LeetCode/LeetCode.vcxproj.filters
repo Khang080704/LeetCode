@@ -95,5 +95,8 @@
     <ClInclude Include="0023_136_SingleNumber.h">
       <Filter>Easy</Filter>
     </ClInclude>
+    <ClInclude Include="0024_141_LinkedListCycle.h">
+      <Filter>Easy</Filter>
+    </ClInclude>
   </ItemGroup>
 </Project>
