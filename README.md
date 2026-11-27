@@ -43,17 +43,18 @@ My daily journey of solving LeetCode problems using C++. This project is a back 
 | 22 | 121 | Best Time to Buy and Sell Stock | Easy | Array, Dynamic Programming | 24/11/2026 |
 | 23 | 136 | Single Number | Easy | Array, Bit Manipulation | 25/11/2026 |
 | 24 | 141 | Linked List Cycle | Easy | Floyd's Cycle Finding Algorithm | 26/11/2026 |
+| 25 | 03 | Longest Substring Without Repeating Characters | Medium | Hash Table, String, Sliding Window | 27/11/2026 |
 
 
 # Statistics
 
-- Day: 22
+- Day: 23
 
-- Total solved: 24
+- Total solved: 25
 
     - Easy: 20
 
-    - Medium: 4
+    - Medium: 5
 
     - Hard: 0
 

@@ -154,6 +154,7 @@
     <ClInclude Include="0022_121_BestTimeToBuyAndSellStock.h" />
     <ClInclude Include="0023_136_SingleNumber.h" />
     <ClInclude Include="0024_141_LinkedListCycle.h" />
+    <ClInclude Include="0025_03_LongestSubstringWithoutRepeatingCharacters.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

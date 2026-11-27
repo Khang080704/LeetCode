@@ -15,6 +15,7 @@
 #include "0019_118_PascalTriangle.h"
 #include "0020_02_AddTwoNumbers.h"
 #include "0022_121_BestTimeToBuyAndSellStock.h"
+#include "0025_03_LongestSubstringWithoutRepeatingCharacters.h"
 
 int main() {
 	std::cout << "Hello, World!" << std::endl;
@@ -25,6 +26,8 @@ int main() {
 	PascalTriangle::testPascalTriangle();
 	AddTwoNumbers::testAddTwoNumbers();
 	BestTimeToBuyAndSellStock::testBestTimeToBuyAndSellStock();
+
+	LongestSubstringWithoutRepeatingCharacters::test();
 
 	return 0;
 }
