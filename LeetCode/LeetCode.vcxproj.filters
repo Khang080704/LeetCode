@@ -101,5 +101,8 @@
     <ClInclude Include="0025_03_LongestSubstringWithoutRepeatingCharacters.h">
       <Filter>Medium</Filter>
     </ClInclude>
+    <ClInclude Include="0026_07_ReverseInteger.h">
+      <Filter>Medium</Filter>
+    </ClInclude>
   </ItemGroup>
 </Project>

@@ -16,6 +16,7 @@
 #include "0020_02_AddTwoNumbers.h"
 #include "0022_121_BestTimeToBuyAndSellStock.h"
 #include "0025_03_LongestSubstringWithoutRepeatingCharacters.h"
+#include "0026_07_ReverseInteger.h"
 
 int main() {
 	std::cout << "Hello, World!" << std::endl;
@@ -28,6 +29,7 @@ int main() {
 	BestTimeToBuyAndSellStock::testBestTimeToBuyAndSellStock();
 
 	LongestSubstringWithoutRepeatingCharacters::test();
+	ReverseInteger::testReverseInteger();
 
 	return 0;
 }

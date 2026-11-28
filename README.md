@@ -44,17 +44,18 @@ My daily journey of solving LeetCode problems using C++. This project is a back 
 | 23 | 136 | Single Number | Easy | Array, Bit Manipulation | 25/11/2026 |
 | 24 | 141 | Linked List Cycle | Easy | Floyd's Cycle Finding Algorithm | 26/11/2026 |
 | 25 | 03 | Longest Substring Without Repeating Characters | Medium | Hash Table, String, Sliding Window | 27/11/2026 |
+| 26 | 07 | Reverse Integer | Medium | Math | 28/11/2026 |
 
 
 # Statistics
 
-- Day: 23
+- Day: 24
 
-- Total solved: 25
+- Total solved: 26
 
     - Easy: 20
 
-    - Medium: 5
+    - Medium: 6
 
     - Hard: 0
 
